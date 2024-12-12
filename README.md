@@ -2,7 +2,6 @@
 
 Welcome to **Pixel2Prediction**, a deep learning project focused on comparing CNNs and ResNets for image classification on the CIFAR-10 dataset.
 
----
 
 ## **Table of Contents** 📋  
 1. [1_Introduction_Goals.ipynb](./1_Introduction_Goals.ipynb)  
@@ -10,7 +9,6 @@ Welcome to **Pixel2Prediction**, a deep learning project focused on comparing CN
 3. [3_RESNET_Model_Analysis.ipynb](./3_RESNET_Model_Analysis.ipynb)  
 4. [4_Comparison_Conclusion_References.ipynb](./4_Comparison_Conclusion_References.ipynb)
 
----
 
 ## **Usage**  
 Read each notebook to explore the project step by step:
